@@ -2,7 +2,7 @@
   "name": "star-db",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://guillotine666.github.io/stardb",
+  "homepage": "https://guillotine666.github.io/star-db",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
